@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\xampp\\htdocs\\projects_cs\\Ripasso010223\\Ripasso010223.csproj",
+      "projectUniqueName": "C:\\xampp\\htdocs\\GioccoConC#\\GioccoConC-\\Ripasso010223\\Ripasso010223.csproj",
       "projectName": "Ripasso010223",
-      "projectPath": "C:\\xampp\\htdocs\\projects_cs\\Ripasso010223\\Ripasso010223.csproj",
+      "projectPath": "C:\\xampp\\htdocs\\GioccoConC#\\GioccoConC-\\Ripasso010223\\Ripasso010223.csproj",
       "packagesPath": "C:\\Users\\utente\\.nuget\\packages\\",
-      "outputPath": "C:\\xampp\\htdocs\\projects_cs\\Ripasso010223\\obj\\",
+      "outputPath": "C:\\xampp\\htdocs\\GioccoConC#\\GioccoConC-\\Ripasso010223\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\utente\\AppData\\Roaming\\NuGet\\NuGet.Config",
