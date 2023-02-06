@@ -1,0 +1,14 @@
+C:\xampp\htdocs\GioccoConC#\GioccoConC-\CicloFor_Funzione\bin\Debug\netcoreapp3.1\CicloFor_Funzione.exe
+C:\xampp\htdocs\GioccoConC#\GioccoConC-\CicloFor_Funzione\bin\Debug\netcoreapp3.1\CicloFor_Funzione.deps.json
+C:\xampp\htdocs\GioccoConC#\GioccoConC-\CicloFor_Funzione\bin\Debug\netcoreapp3.1\CicloFor_Funzione.runtimeconfig.json
+C:\xampp\htdocs\GioccoConC#\GioccoConC-\CicloFor_Funzione\bin\Debug\netcoreapp3.1\CicloFor_Funzione.runtimeconfig.dev.json
+C:\xampp\htdocs\GioccoConC#\GioccoConC-\CicloFor_Funzione\bin\Debug\netcoreapp3.1\CicloFor_Funzione.dll
+C:\xampp\htdocs\GioccoConC#\GioccoConC-\CicloFor_Funzione\bin\Debug\netcoreapp3.1\CicloFor_Funzione.pdb
+C:\xampp\htdocs\GioccoConC#\GioccoConC-\CicloFor_Funzione\obj\Debug\netcoreapp3.1\CicloFor_Funzione.csproj.AssemblyReference.cache
+C:\xampp\htdocs\GioccoConC#\GioccoConC-\CicloFor_Funzione\obj\Debug\netcoreapp3.1\CicloFor_Funzione.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\GioccoConC#\GioccoConC-\CicloFor_Funzione\obj\Debug\netcoreapp3.1\CicloFor_Funzione.AssemblyInfoInputs.cache
+C:\xampp\htdocs\GioccoConC#\GioccoConC-\CicloFor_Funzione\obj\Debug\netcoreapp3.1\CicloFor_Funzione.AssemblyInfo.cs
+C:\xampp\htdocs\GioccoConC#\GioccoConC-\CicloFor_Funzione\obj\Debug\netcoreapp3.1\CicloFor_Funzione.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\GioccoConC#\GioccoConC-\CicloFor_Funzione\obj\Debug\netcoreapp3.1\CicloFor_Funzione.dll
+C:\xampp\htdocs\GioccoConC#\GioccoConC-\CicloFor_Funzione\obj\Debug\netcoreapp3.1\CicloFor_Funzione.pdb
+C:\xampp\htdocs\GioccoConC#\GioccoConC-\CicloFor_Funzione\obj\Debug\netcoreapp3.1\CicloFor_Funzione.genruntimeconfig.cache
