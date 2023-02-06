@@ -99,7 +99,7 @@ namespace Ripasso010223
             }
         }
         */
-
+        /*
         static void Calculatice()
         {
             float n1;
@@ -124,7 +124,6 @@ namespace Ripasso010223
                         n2 = float.Parse(Console.ReadLine());
                         float somma = n1 + n2;
                         Console.WriteLine($"La somma di {n1} + {n2} = {somma}");
-                        Console.Clear();
                         break;
                         
                     case 1:
@@ -134,7 +133,6 @@ namespace Ripasso010223
                         n2 = float.Parse(Console.ReadLine());
                         float differenza = n1 - n2;
                         Console.WriteLine($"La somma di {n1} - {n2} = {differenza}");
-                        Console.Clear();
                         break;
                     case 2:
                         Console.Write("Inserisci il primo numero :");
@@ -143,7 +141,6 @@ namespace Ripasso010223
                         n2 = float.Parse(Console.ReadLine());
                         float moltiplicazione = n1 * n2;
                         Console.WriteLine($"La somma di {n1} x {n2} = {moltiplicazione}");
-                        Console.Clear();
                         break;
                     case 3:
                         Console.Write("Inserisci il primo numero :");
@@ -152,7 +149,6 @@ namespace Ripasso010223
                         n2 = float.Parse(Console.ReadLine());
                         float divisione = n1 / n2;
                         Console.WriteLine($"La somma di {n1} / {n2} = {divisione}");
-                        Console.Clear();
                         break;
                     case 4:
                         //per uscire 
@@ -160,13 +156,13 @@ namespace Ripasso010223
                 }
                 
             }
-        }
+        */
 
         static void Main(string[] args)
         {
             //MassiFunzione();
            // ProvaSwitch();  
-           Calculatice();
+          // Calculatice();
 
 
             Console.ReadKey();
