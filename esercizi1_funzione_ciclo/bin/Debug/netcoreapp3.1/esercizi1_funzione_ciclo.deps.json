@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "esercizi1_funzione_ciclo/1.0.0": {
+        "runtime": {
+          "esercizi1_funzione_ciclo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "esercizi1_funzione_ciclo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
