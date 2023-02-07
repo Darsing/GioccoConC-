@@ -1,0 +1,14 @@
+C:\xampp\htdocs\GioccoConC#\GioccoConC-\Funzione\bin\Debug\netcoreapp3.1\Funzione.exe
+C:\xampp\htdocs\GioccoConC#\GioccoConC-\Funzione\bin\Debug\netcoreapp3.1\Funzione.deps.json
+C:\xampp\htdocs\GioccoConC#\GioccoConC-\Funzione\bin\Debug\netcoreapp3.1\Funzione.runtimeconfig.json
+C:\xampp\htdocs\GioccoConC#\GioccoConC-\Funzione\bin\Debug\netcoreapp3.1\Funzione.runtimeconfig.dev.json
+C:\xampp\htdocs\GioccoConC#\GioccoConC-\Funzione\bin\Debug\netcoreapp3.1\Funzione.dll
+C:\xampp\htdocs\GioccoConC#\GioccoConC-\Funzione\bin\Debug\netcoreapp3.1\Funzione.pdb
+C:\xampp\htdocs\GioccoConC#\GioccoConC-\Funzione\obj\Debug\netcoreapp3.1\Funzione.csproj.AssemblyReference.cache
+C:\xampp\htdocs\GioccoConC#\GioccoConC-\Funzione\obj\Debug\netcoreapp3.1\Funzione.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\GioccoConC#\GioccoConC-\Funzione\obj\Debug\netcoreapp3.1\Funzione.AssemblyInfoInputs.cache
+C:\xampp\htdocs\GioccoConC#\GioccoConC-\Funzione\obj\Debug\netcoreapp3.1\Funzione.AssemblyInfo.cs
+C:\xampp\htdocs\GioccoConC#\GioccoConC-\Funzione\obj\Debug\netcoreapp3.1\Funzione.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\GioccoConC#\GioccoConC-\Funzione\obj\Debug\netcoreapp3.1\Funzione.dll
+C:\xampp\htdocs\GioccoConC#\GioccoConC-\Funzione\obj\Debug\netcoreapp3.1\Funzione.pdb
+C:\xampp\htdocs\GioccoConC#\GioccoConC-\Funzione\obj\Debug\netcoreapp3.1\Funzione.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\xampp\htdocs\GioccoConC#\GioccoConC-\ArrayList\bin\Debug\netcoreapp3.1\ArrayList.exe
+C:\xampp\htdocs\GioccoConC#\GioccoConC-\ArrayList\bin\Debug\netcoreapp3.1\ArrayList.deps.json
+C:\xampp\htdocs\GioccoConC#\GioccoConC-\ArrayList\bin\Debug\netcoreapp3.1\ArrayList.runtimeconfig.json
+C:\xampp\htdocs\GioccoConC#\GioccoConC-\ArrayList\bin\Debug\netcoreapp3.1\ArrayList.runtimeconfig.dev.json
+C:\xampp\htdocs\GioccoConC#\GioccoConC-\ArrayList\bin\Debug\netcoreapp3.1\ArrayList.dll
+C:\xampp\htdocs\GioccoConC#\GioccoConC-\ArrayList\bin\Debug\netcoreapp3.1\ArrayList.pdb
+C:\xampp\htdocs\GioccoConC#\GioccoConC-\ArrayList\obj\Debug\netcoreapp3.1\ArrayList.csproj.AssemblyReference.cache
+C:\xampp\htdocs\GioccoConC#\GioccoConC-\ArrayList\obj\Debug\netcoreapp3.1\ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\GioccoConC#\GioccoConC-\ArrayList\obj\Debug\netcoreapp3.1\ArrayList.AssemblyInfoInputs.cache
+C:\xampp\htdocs\GioccoConC#\GioccoConC-\ArrayList\obj\Debug\netcoreapp3.1\ArrayList.AssemblyInfo.cs
+C:\xampp\htdocs\GioccoConC#\GioccoConC-\ArrayList\obj\Debug\netcoreapp3.1\ArrayList.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\GioccoConC#\GioccoConC-\ArrayList\obj\Debug\netcoreapp3.1\ArrayList.dll
+C:\xampp\htdocs\GioccoConC#\GioccoConC-\ArrayList\obj\Debug\netcoreapp3.1\ArrayList.pdb
+C:\xampp\htdocs\GioccoConC#\GioccoConC-\ArrayList\obj\Debug\netcoreapp3.1\ArrayList.genruntimeconfig.cache
