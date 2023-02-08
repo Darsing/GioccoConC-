@@ -1,0 +1,14 @@
+C:\xampp\htdocs\GioccoConC#\GioccoConC-\Array080223\bin\Debug\netcoreapp3.1\Array080223.exe
+C:\xampp\htdocs\GioccoConC#\GioccoConC-\Array080223\bin\Debug\netcoreapp3.1\Array080223.deps.json
+C:\xampp\htdocs\GioccoConC#\GioccoConC-\Array080223\bin\Debug\netcoreapp3.1\Array080223.runtimeconfig.json
+C:\xampp\htdocs\GioccoConC#\GioccoConC-\Array080223\bin\Debug\netcoreapp3.1\Array080223.runtimeconfig.dev.json
+C:\xampp\htdocs\GioccoConC#\GioccoConC-\Array080223\bin\Debug\netcoreapp3.1\Array080223.dll
+C:\xampp\htdocs\GioccoConC#\GioccoConC-\Array080223\bin\Debug\netcoreapp3.1\Array080223.pdb
+C:\xampp\htdocs\GioccoConC#\GioccoConC-\Array080223\obj\Debug\netcoreapp3.1\Array080223.csproj.AssemblyReference.cache
+C:\xampp\htdocs\GioccoConC#\GioccoConC-\Array080223\obj\Debug\netcoreapp3.1\Array080223.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\GioccoConC#\GioccoConC-\Array080223\obj\Debug\netcoreapp3.1\Array080223.AssemblyInfoInputs.cache
+C:\xampp\htdocs\GioccoConC#\GioccoConC-\Array080223\obj\Debug\netcoreapp3.1\Array080223.AssemblyInfo.cs
+C:\xampp\htdocs\GioccoConC#\GioccoConC-\Array080223\obj\Debug\netcoreapp3.1\Array080223.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\GioccoConC#\GioccoConC-\Array080223\obj\Debug\netcoreapp3.1\Array080223.dll
+C:\xampp\htdocs\GioccoConC#\GioccoConC-\Array080223\obj\Debug\netcoreapp3.1\Array080223.pdb
+C:\xampp\htdocs\GioccoConC#\GioccoConC-\Array080223\obj\Debug\netcoreapp3.1\Array080223.genruntimeconfig.cache
