@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Globalization;
+using System.Xml.Schema;
 
 namespace Array080223
 {
@@ -57,6 +59,8 @@ namespace Array080223
         - chiedere all'utente quale stringa vuole stampare
         - stampare su schermo la stringa scelta dall'utente
         */
+
+        /*
         static void Main(string[] args)
         {
             string[] s = new string[5];
@@ -76,6 +80,40 @@ namespace Array080223
                 Console.WriteLine(s[input]);
             }
             
+        }
+        */
+
+        /*
+         - creare una funzione che restituisca un array
+         di numeri casuali
+         - chiamare la funzione 2 volte e stampare tutti
+         i numeri che restituisce
+         */
+
+        static int [] GetNumbers()
+        {
+            Random random= new Random();
+            Console.Write("Entri la dimensione dell'array: ");
+            int dimensione = int.Parse(Console.ReadLine());
+
+            int[] numeri = new int[dimensione];
+            
+            for(int i=0;i<dimensione;i++)
+            {
+                numeri[i] = random.Next(100);
+            }
+           return numeri;
+        }
+        static void Main(string[] args)
+        {
+            for(int i=0;i<2;i++)
+            {
+                int[] numero = GetNumbers();
+                for(int j = 0; j < numero.Length; j++)
+                {
+                    Console.WriteLine(numero[j]);
+                }
+            }
         }
     }
 }
